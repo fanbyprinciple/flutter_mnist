@@ -16,3 +16,12 @@ main.py for training
 
 ![](training_model.png)
 
+## creating flutter app
+
+need to create flutter
+
+## Created basic app
+
+1. dependencies install.bat needs to be installed
+2. basic layout:
+![](basic_layout.png)
